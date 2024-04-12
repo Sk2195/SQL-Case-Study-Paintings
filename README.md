@@ -2,7 +2,8 @@
 This is SQL Case Study project uses SQL to analyze paintings that are hanged in the museums.
 # Painting Data Analysis Project
 
-This project is designed to import and analyze painting-related data stored in various CSV files using PostgreSQL and Python. The analysis is centered around a case study of paintings, incorporating details such as canvas size, image links, museum hours, and more.
+This project uses PostgreSQL and Python to import and analyze data on paintings that is saved in several CSV files. A case study of paintings serves as the basis for the analysis, which includes information about canvas size, picture links, museum hours, and other topics.
+
 
 ## Prerequisites
 
@@ -52,7 +53,4 @@ This README outlines a series of SQL queries designed to manipulate and analyze 
 | 21 | Identify the 3 most popular and 3 least popular painting styles | Query to list the three most and least popular painting styles based on the number of paintings. |
 | 22 | Most Portrait paintings by an artist outside the USA | Query to find the artist with the most Portrait paintings located outside the USA, including artist name, number of paintings, and nationality. |
 
-## Usage
-
-Each query is crafted to address a specific question about the data in the dataset. Users should customize the SQL code snippets to their specific database setup, considering variations in schema and column names.
 
